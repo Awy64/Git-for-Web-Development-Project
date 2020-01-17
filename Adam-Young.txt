@@ -37,3 +37,5 @@ https://codepen.io/AddyHacker/pen/Powdvjw?editors=1000
     35. How often should I commit to github? Any time a change happens that if lost would make you want to bash your head on the table.
     36. What is the command we would use to push our repo up to github? Push
     37. Walk me through Lambda's git flow. Fork ,add tl, clone, branch, add, commit, pull request to my repo.
+
+    I also added ssh keys for my macbook and windows desktop.
