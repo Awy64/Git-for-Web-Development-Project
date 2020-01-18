@@ -39,3 +39,9 @@ https://codepen.io/AddyHacker/pen/Powdvjw?editors=1000
     37. Walk me through Lambda's git flow. Fork ,add tl, clone, branch, add, commit, pull request to my repo.
 
     I also added ssh keys for my macbook and windows desktop.
+
+    1. What is the difference between an inline element and a block element? A inline element does not get placed on a new line. A block element will get placed on its own line and have a box.
+    2. What happens when an element is positioned absolutely? The element is positioned off of the containing block.
+    3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width? 
+    4. Name 3 elements that are diplay block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default. P h1 div, span and label, img
+    5. In your own words, explain the box model. What is the fix for the box model? Boxes around html elements. Box Sizing.
